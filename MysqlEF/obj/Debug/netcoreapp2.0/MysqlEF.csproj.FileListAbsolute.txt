@@ -1,0 +1,11 @@
+D:\c#\MysqlEF\MysqlEF\bin\Debug\netcoreapp2.0\MysqlEF.deps.json
+D:\c#\MysqlEF\MysqlEF\bin\Debug\netcoreapp2.0\MysqlEF.runtimeconfig.json
+D:\c#\MysqlEF\MysqlEF\bin\Debug\netcoreapp2.0\MysqlEF.runtimeconfig.dev.json
+D:\c#\MysqlEF\MysqlEF\bin\Debug\netcoreapp2.0\MysqlEF.dll
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.csproj.CoreCompileInputs.cache
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.AssemblyInfoInputs.cache
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.AssemblyInfo.cs
+D:\c#\MysqlEF\MysqlEF\bin\Debug\netcoreapp2.0\MysqlEF.pdb
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.csprojResolveAssemblyReference.cache
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.dll
+D:\c#\MysqlEF\MysqlEF\obj\Debug\netcoreapp2.0\MysqlEF.pdb
